@@ -1,0 +1,97 @@
+Privacy Policy for SocialBot
+Last updated: [Date]
+
+1. Introduction
+Welcome to SocialBot. We are committed to protecting your privacy and ensuring that your personal data is handled securely and responsibly. This Privacy Policy explains how we collect, use, and protect your information when you use our services.
+
+By using SocialBot, you agree to the collection and use of your information as outlined in this Privacy Policy. If you do not agree with any part of this policy, please do not use our services.
+
+2. Information We Collect
+When you use SocialBot, we may collect the following types of information:
+
+2.1 Information You Provide to Us
+Account Information: When you sign up, we collect your email, username, and password.
+Social Media Authentication: If you connect your Instagram Business account, we collect your Instagram Business ID, username, and access token.
+Telegram Integration: If you use our Telegram bot, we store images and captions you submit for AI processing.
+Contact Information: If you reach out to us for support, we may store your name and email.
+2.2 Automatically Collected Information
+Usage Data: We collect analytics on how you interact with our app (e.g., login times, feature usage).
+Device Information: We may collect information about your device, browser, and IP address.
+Log Data: Our system automatically logs user activity, including error reports and security events.
+2.3 Information from Third-Party Services
+If you integrate third-party services like Zapier, Make.com, or Facebook, we may receive additional authentication data from these services. We only store the minimum necessary information required for integration.
+
+3. How We Use Your Information
+We use your information to provide and improve SocialBot. Specifically, we use your data for:
+
+Account management and authentication
+Posting content to Instagram Business accounts on your behalf
+Processing AI-enhanced captions and images
+Sending automated posts through Telegram bots
+Ensuring security, fraud prevention, and account integrity
+Improving user experience through analytics and feature enhancements
+We do not use your data for advertising or sell your information to third parties.
+
+4. How We Store and Protect Your Data
+We take data security seriously and implement appropriate measures to protect your information.
+
+4.1 Data Storage
+Your data is stored securely in encrypted databases.
+We do not store your Instagram or Facebook password—only access tokens provided by Facebook's OAuth system.
+Telegram submissions (images and captions) are stored temporarily for processing and are not retained long-term.
+4.2 Data Protection Measures
+All communications are encrypted using SSL/TLS.
+Authentication data is securely hashed.
+We implement access control to prevent unauthorized data access.
+If a security breach occurs, we will notify affected users as required by law.
+5. Sharing Your Information
+We do not sell your data. However, we may share it under the following circumstances:
+
+With third-party services you authorize (e.g., Zapier, Make.com, Instagram API) to enable automation.
+With legal authorities if required by law to prevent fraud, abuse, or security threats.
+With service providers who help us operate our platform (e.g., cloud hosting, security monitoring).
+We ensure all third parties handling your data comply with applicable privacy laws.
+
+6. Third-Party Services and Integrations
+SocialBot integrates with third-party platforms like Instagram, Zapier, and Telegram. When you connect your account to these services:
+
+You grant us permission to access and process your data as required by each integration.
+You should review the privacy policies of these third-party services, as we do not control their data handling.
+You may revoke access to these services at any time from their respective settings.
+7. Your Rights and Data Control
+You have the right to:
+
+7.1 Access and Update Your Information
+You can view and edit your account details in SocialBot's settings.
+7.2 Delete Your Data
+You can request permanent deletion of your account and associated data by contacting [Your Support Email].
+If you delete your account, we will remove all stored data, except for records required by law.
+7.3 Revoke Third-Party Access
+You can disconnect Instagram, Telegram, or Zapier at any time through their settings.
+8. Data Retention
+We only keep your data as long as necessary to provide our services. If you delete your account, we will:
+
+Immediately remove your personal account information.
+Retain usage logs for up to 90 days for security and legal compliance.
+Anonymize analytics data for future improvements.
+9. Cookies and Tracking
+SocialBot does not use tracking cookies or third-party ads. However, we use:
+
+Session cookies for secure authentication.
+Analytics tools to understand feature usage (without storing personal details).
+You can disable cookies in your browser settings, but this may affect your experience.
+
+10. Changes to This Privacy Policy
+We may update this Privacy Policy periodically. If significant changes occur, we will notify you by:
+
+Sending an email to registered users.
+Displaying a notice in the SocialBot dashboard.
+Your continued use of SocialBot after updates means you accept the changes.
+
+11. Contact Us
+If you have any questions about this Privacy Policy or want to exercise your rights, contact us at:
+
+Email: [Your Support Email]
+Website: [YourApp.com]
+
+By using SocialBot, you agree to this Privacy Policy. Thank you for trusting us with your data!
